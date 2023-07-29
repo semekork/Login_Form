@@ -6,7 +6,7 @@ img{
     width: 30px;
 }
 .background{
-    width: 430px;
+    width: 830px;
     height: 480px;
     position: absolute;
     transform: translate(-50%,-50%);
@@ -30,7 +30,7 @@ top: -80px;
     bottom: -80px;
 }
 form {
-    height: 690px;
+    height: 670px;
     width: 400px;
     background-color: rgba(255, 255, 255, 0.13);
     position: absolute;
